@@ -1,0 +1,240 @@
+time="13-08-2024 10:38:55" level=info msg="HTTP Request Method" detail="ExpiredTime: 2024-08-14 10:38:55"
+time="13-08-2024 10:38:55" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 10:39:39" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 10:39:39" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 10:40:38" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 10:40:38" level=info msg="HTTP Request Method" detail="ExpiredTime: 2024-08-14 10:40:38"
+time="13-08-2024 10:41:02" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 10:41:02" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 10:41:10" level=info msg="HTTP Request Method" detail="ExpiredTime: 2024-08-14 10:41:10"
+time="13-08-2024 10:41:10" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 10:43:37" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 10:43:37" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 10:43:48" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 10:43:48" level=info msg="HTTP Request Method" detail="ExpiredTime: 2024-08-14 10:43:48"
+time="13-08-2024 10:43:52" level=info msg="HTTP Request Method" ID=199fb4a1-eb3e-4bbd-a63a-4585258ffe13 method=GET request= url=/
+time="13-08-2024 10:43:52" level=info msg="HTTP Request Method" ID=b6ae7523-655f-4dca-82df-6e1251244055 method=GET request= url=/favicon.ico
+time="13-08-2024 10:44:03" level=info msg="HTTP Request Method" ID=bfe72d7d-e240-4c76-98f0-49336044dad5 method=GET request= url=/healthy
+time="13-08-2024 10:45:36" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 10:45:36" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 10:45:47" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 10:45:47" level=info msg="HTTP Request Method" detail="ExpiredTime: 2024-08-14 10:45:47"
+time="13-08-2024 10:46:02" level=info msg="HTTP Request Method" ID=f6720769-053d-4cd2-b861-ee0b01466f74 method=GET request= url=/
+time="13-08-2024 10:46:15" level=info msg="HTTP Request Method" ID=c7afbb7c-ce24-47f1-b2c6-31be68362820 method=GET request= url=/healthy
+time="13-08-2024 10:46:29" level=info msg="HTTP Request Method" ID=29cbe1ed-a115-45b1-91ce-55a3cb17858f method=GET request= url=/golang/db/healthcheck
+time="13-08-2024 10:47:00" level=info msg="HTTP Request Method" ID=bf84b6d5-c18c-4200-beed-2e1b8e42e158 method=GET request= url=/api/golang/public/v1/web/swagger/index.html
+time="13-08-2024 10:47:01" level=info msg="HTTP Request Method" ID=ca9e2f75-472c-4eaf-8e46-07c51f9011f8 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-bundle.js
+time="13-08-2024 10:47:01" level=info msg="HTTP Request Method" ID=02addcbf-64c9-41bd-95b9-a887af06657e method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-standalone-preset.js
+time="13-08-2024 10:47:01" level=info msg="HTTP Request Method" ID=2dd30fdc-7141-448f-9aba-9c06554f2ad4 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui.css
+time="13-08-2024 10:47:01" level=info msg="HTTP Request Method" ID=897ae8bf-895d-400b-bba7-8e84a0116e7c method=GET request= url=/api/golang/public/v1/web/swagger/localhost/api/golang/public/v1/web/swagger/doc.json
+time="13-08-2024 10:47:01" level=info msg="HTTP Request Method" ID=d88801aa-2506-46b9-baf2-d84ed3b257ff method=GET request= url=/api/golang/public/v1/web/swagger/favicon-32x32.png
+time="13-08-2024 10:48:56" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 10:48:56" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 10:49:10" level=info msg="HTTP Request Method" detail="ExpiredTime: 2024-08-14 10:49:10"
+time="13-08-2024 10:49:10" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 10:49:14" level=info msg="HTTP Request Method" ID=c2c4dc74-29dc-4135-ae3e-e63e80282c59 method=GET request= url=/api/golang/public/v1/web/swagger/index.html
+time="13-08-2024 10:49:14" level=info msg="HTTP Request Method" ID=0ac4bfeb-b22d-40e3-9ee6-20c792089ece method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui.css
+time="13-08-2024 10:49:14" level=info msg="HTTP Request Method" ID=b7c488a8-6b9d-4ff0-9ddc-0642161a47a2 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-bundle.js
+time="13-08-2024 10:49:14" level=info msg="HTTP Request Method" ID=dba81db6-1f29-4fac-bc16-b9beebe08cd7 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-standalone-preset.js
+time="13-08-2024 10:49:14" level=info msg="HTTP Request Method" ID=cf628ad3-df59-4f7a-8584-df56e74daca2 method=GET request= url=/api/golang/public/v1/web/swagger/localhost/api/golang/public/v1/web/swagger/doc.json
+time="13-08-2024 10:49:14" level=info msg="HTTP Request Method" ID=721d12ba-3456-4ab0-a144-232e4df14103 method=GET request= url=/api/golang/public/v1/web/swagger/favicon-32x32.png
+time="13-08-2024 10:52:39" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 10:52:39" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 10:56:32" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 10:56:32" level=info msg="HTTP Request Method" detail="ExpiredTime: 2024-08-14 10:56:32"
+time="13-08-2024 10:56:45" level=info msg="HTTP Request Method" ID=adafe5c8-541e-4db6-b075-41e29dd1efbc method=GET request= url=/api/golang/public/v1/web/swagger/index.html
+time="13-08-2024 10:56:45" level=info msg="HTTP Request Method" ID=47e1c206-0c68-48cb-b05b-04da04d52f30 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-bundle.js
+time="13-08-2024 10:56:45" level=info msg="HTTP Request Method" ID=b0b47a3f-7de0-46e4-90b2-8e730f2255b0 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui.css
+time="13-08-2024 10:56:45" level=info msg="HTTP Request Method" ID=767dd9a0-6286-419b-bda3-a07259a62ae1 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-standalone-preset.js
+time="13-08-2024 10:56:45" level=info msg="HTTP Request Method" ID=a7d2d368-1e18-4e76-b532-b44fb6af2597 method=GET request= url=/api/golang/public/v1/web/swagger/localhost/api/golang/public/v1/web/swagger/doc.json
+time="13-08-2024 10:56:45" level=info msg="HTTP Request Method" ID=96de30b5-dc43-4c6c-9fe8-681b62446768 method=GET request= url=/api/golang/public/v1/web/swagger/favicon-32x32.png
+time="13-08-2024 10:58:36" level=info msg="HTTP Request Method" ID=ad1991a3-a17a-43e6-828a-2213210bc6a4 method=GET request= url=/healthy
+time="13-08-2024 11:01:31" level=info msg="HTTP Request Method" ID=63ccfb4b-6743-4a96-98d6-8c7bb3a05784 method=GET request= url=/api/golang/public/v1/web/swagger/index.html
+time="13-08-2024 11:01:31" level=info msg="HTTP Request Method" ID=05bb541a-7eee-42b0-a5d7-5252198054bf method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui.css
+time="13-08-2024 11:01:31" level=info msg="HTTP Request Method" ID=d835d0de-5390-426e-a757-12faac1c95cf method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-bundle.js
+time="13-08-2024 11:01:31" level=info msg="HTTP Request Method" ID=db2baf09-d52c-4738-9257-0dc45ccecc76 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-standalone-preset.js
+time="13-08-2024 11:01:31" level=info msg="HTTP Request Method" ID=5af6dae3-a8b6-489d-9089-4972556f65c3 method=GET request= url=/api/golang/public/v1/web/swagger/localhost/api/golang/public/v1/web/swagger/doc.json
+time="13-08-2024 11:01:57" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:01:57" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:02:07" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:02:07" level=info msg="HTTP Request Method" detail="ExpiredTime: 2024-08-14 11:02:07"
+time="13-08-2024 11:02:30" level=info msg="HTTP Request Method" ID=d314fcd4-0a9b-49b8-9956-e3c9880aaa35 method=GET request= url=/api/golang/public/v1/web/swagger/index.html
+time="13-08-2024 11:02:30" level=info msg="HTTP Request Method" ID=8aa05971-621b-4ad9-b847-7e5f54b638ea method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-bundle.js
+time="13-08-2024 11:02:30" level=info msg="HTTP Request Method" ID=508ae84d-ea0c-4e72-bdfb-5267c6e7601f method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui.css
+time="13-08-2024 11:02:30" level=info msg="HTTP Request Method" ID=dacfa182-9733-41f5-ae53-5805b4d227ca method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-standalone-preset.js
+time="13-08-2024 11:02:30" level=info msg="HTTP Request Method" ID=7e4c785b-af05-480c-9276-6cdd8deb2e3d method=GET request= url=/api/golang/public/v1/web/swagger/localhost/api/golang/public/v1/web/swagger/doc.json
+time="13-08-2024 11:02:30" level=info msg="HTTP Request Method" ID=7a42b511-8acd-482d-a1a5-ab9ba5bec7eb method=GET request= url=/api/golang/public/v1/web/swagger/favicon-32x32.png
+time="13-08-2024 11:02:40" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:02:40" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:03:09" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:03:09" level=info msg="HTTP Request Method" detail="ExpiredTime: 2024-08-14 11:03:09"
+time="13-08-2024 11:03:28" level=info msg="HTTP Request Method" ID=b37ac042-9da3-4409-8680-40fafa6bcabc method=GET request= url=/api/golang/public/v1/web/swagger/index.html
+time="13-08-2024 11:03:28" level=info msg="HTTP Request Method" ID=a38da6f6-1053-4dd6-9bf1-24d48253c83f method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui.css
+time="13-08-2024 11:03:28" level=info msg="HTTP Request Method" ID=91966c9b-9115-4111-8632-f70e2cdd3d08 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-bundle.js
+time="13-08-2024 11:03:28" level=info msg="HTTP Request Method" ID=48e1410d-0176-4dc7-a40d-7b754a61bd5a method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-standalone-preset.js
+time="13-08-2024 11:03:28" level=info msg="HTTP Request Method" ID=961b91eb-266d-4c56-b907-26c18e429fbb method=GET request= url=/api/golang/public/v1/web/swagger/localhost/api/golang/public/v1/web/swagger/doc.json
+time="13-08-2024 11:03:28" level=info msg="HTTP Request Method" ID=2a805bc1-a3b1-4285-86e6-c348ffa41c86 method=GET request= url=/api/golang/public/v1/web/swagger/favicon-32x32.png
+time="13-08-2024 11:04:08" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:04:08" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:04:36" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:04:36" level=info msg="HTTP Request Method" detail="ExpiredTime: 2024-08-14 11:04:36"
+time="13-08-2024 11:04:43" level=info msg="HTTP Request Method" ID=c7e82819-9ce9-4c73-9b50-c7c1078fc704 method=GET request= url=/api/golang/public/v1/web/swagger/index.html
+time="13-08-2024 11:04:43" level=info msg="HTTP Request Method" ID=f034b27b-1c92-48ff-a6f2-e2cf46593bb6 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui.css
+time="13-08-2024 11:04:43" level=info msg="HTTP Request Method" ID=e1f745eb-8088-4006-8713-207a778b3366 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-bundle.js
+time="13-08-2024 11:04:43" level=info msg="HTTP Request Method" ID=d590738f-42ef-4f99-b61d-7267eb9215d2 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-standalone-preset.js
+time="13-08-2024 11:04:43" level=info msg="HTTP Request Method" ID=6482c940-9409-4dd7-aa59-237bbfc71d72 method=GET request= url=/api/golang/public/v1/web/swagger/localhost/api/golang/public/v1/web/swagger/doc.json
+time="13-08-2024 11:04:43" level=info msg="HTTP Request Method" ID=33c7a282-a517-4a61-86a6-5d167cee6bfa method=GET request= url=/api/golang/public/v1/web/swagger/favicon-32x32.png
+time="13-08-2024 11:04:51" level=info msg="HTTP Request Method" ID=b767a079-c0fa-4b32-b984-e5b958d9472a method=GET request= url=/api/golang/public/healthy
+time="13-08-2024 11:05:42" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:05:42" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:05:54" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:05:54" level=info msg="HTTP Request Method" detail="ExpiredTime: 2024-08-14 11:05:54"
+time="13-08-2024 11:05:59" level=info msg="HTTP Request Method" ID=32fd5170-c60a-4e6f-9e01-bbe42d981395 method=GET request= url=/api/golang/public/v1/web/swagger/index.html
+time="13-08-2024 11:05:59" level=info msg="HTTP Request Method" ID=4b57f321-91ed-4c9c-a245-f2b189526de1 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui.css
+time="13-08-2024 11:05:59" level=info msg="HTTP Request Method" ID=c27a2a92-1814-4067-826f-e7c98782185c method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-bundle.js
+time="13-08-2024 11:05:59" level=info msg="HTTP Request Method" ID=0a46c26f-58a2-4bd4-87bb-8f49eb7c582c method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-standalone-preset.js
+time="13-08-2024 11:06:00" level=info msg="HTTP Request Method" ID=3d911c62-e00f-4cfc-a2d2-99876d23c650 method=GET request= url=/api/golang/public/v1/web/swagger/localhost/api/golang/public/v1/web/swagger/doc.json
+time="13-08-2024 11:06:00" level=info msg="HTTP Request Method" ID=018eb336-8337-498b-807d-3931ea18c49a method=GET request= url=/api/golang/public/v1/web/swagger/favicon-32x32.png
+time="13-08-2024 11:06:02" level=info msg="HTTP Request Method" ID=7e6478b6-4b8d-44b2-ada5-78363735e57c method=GET request= url=/api/golang/public/healthy
+time="13-08-2024 11:10:14" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:10:14" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:18:35" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:18:35" level=info msg="HTTP Request Method" detail="ExpiredTime: 2024-08-14 11:18:35"
+time="13-08-2024 11:18:46" level=info msg="HTTP Request Method" ID=7c9b95f1-0d38-4baf-97ad-4eed520ab3fc method=GET request= url=/api/golang/public/v1/web/swagger/index.html
+time="13-08-2024 11:18:47" level=info msg="HTTP Request Method" ID=7322b7e9-d976-4aca-b06e-469a0b73f28f method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui.css
+time="13-08-2024 11:18:47" level=info msg="HTTP Request Method" ID=7316547c-2085-47fa-aee8-beb20883bf53 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-bundle.js
+time="13-08-2024 11:18:47" level=info msg="HTTP Request Method" ID=83aa4357-a2d9-4add-93eb-2677cc8d4680 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-standalone-preset.js
+time="13-08-2024 11:18:47" level=info msg="HTTP Request Method" ID=d8700c72-298c-4dcf-8476-a3771d1fe8c5 method=GET request= url=/api/golang/public/v1/web/swagger/localhost/api/golang/public/v1/web/swagger/doc.json
+time="13-08-2024 11:18:47" level=info msg="HTTP Request Method" ID=bf35fbb7-f60b-43e5-a2da-964e69292e2e method=GET request= url=/api/golang/public/v1/web/swagger/favicon-32x32.png
+time="13-08-2024 11:19:00" level=info msg="HTTP Request Method" ID=c5c40329-e680-48be-a593-c16d4413080b method=GET request= url=/api/golang/public/healthy
+time="13-08-2024 11:24:27" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:24:27" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:24:37" level=info msg="HTTP Request Method" detail="ExpiredTime: 2024-08-14 11:24:37"
+time="13-08-2024 11:24:37" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:24:44" level=info msg="HTTP Request Method" ID=0746c3ba-b77e-4fa9-b451-51cfab5b96ce method=GET request= url=/api/golang/public/v1/web/swagger/index.html
+time="13-08-2024 11:24:44" level=info msg="HTTP Request Method" ID=97053b4f-6254-4448-9426-a0b3ddaf0387 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui.css
+time="13-08-2024 11:24:44" level=info msg="HTTP Request Method" ID=1e5e32e9-31ee-4ce8-b38d-88d00452d70a method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-bundle.js
+time="13-08-2024 11:24:44" level=info msg="HTTP Request Method" ID=c5764ec0-0a0c-4a3f-b6be-9c7011fc20b1 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-standalone-preset.js
+time="13-08-2024 11:24:44" level=info msg="HTTP Request Method" ID=185a5411-bea1-48e8-a2cc-9204377742df method=GET request= url=/api/golang/public/v1/web/swagger/localhost/api/golang/public/v1/web/swagger/doc.json
+time="13-08-2024 11:24:44" level=info msg="HTTP Request Method" ID=1f19004f-0133-475f-a632-d1fcee6547d2 method=GET request= url=/api/golang/public/v1/web/swagger/favicon-32x32.png
+time="13-08-2024 11:24:47" level=info msg="HTTP Request Method" ID=feae0e29-4c8f-4f6f-946f-e8e09b7a4f4f method=GET request= url=/api/golang/public/healthy
+time="13-08-2024 11:25:24" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:25:24" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:25:34" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:25:34" level=info msg="HTTP Request Method" detail="ExpiredTime: 2024-08-14 11:25:34"
+time="13-08-2024 11:25:44" level=info msg="HTTP Request Method" ID=85779abd-486b-467d-9f64-8b1e3983e904 method=GET request= url=/api/golang/public/v1/web/swagger/index.html
+time="13-08-2024 11:25:44" level=info msg="HTTP Request Method" ID=48bb7739-829e-40dc-bb10-dbbc5bab1f1c method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui.css
+time="13-08-2024 11:25:44" level=info msg="HTTP Request Method" ID=43e1e93f-9e02-43e8-b860-95f298aecde2 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-bundle.js
+time="13-08-2024 11:25:44" level=info msg="HTTP Request Method" ID=000a95b2-cad6-4b6e-9aeb-2ffd0277eaca method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-standalone-preset.js
+time="13-08-2024 11:25:44" level=info msg="HTTP Request Method" ID=4aa897d2-edf4-4280-96ce-b34648783e7c method=GET request= url=/api/golang/public/v1/web/swagger/localhost/api/golang/public/v1/web/swagger/doc.json
+time="13-08-2024 11:25:44" level=info msg="HTTP Request Method" ID=bd433a17-1231-4b3c-bc8a-a2c34b8c151f method=GET request= url=/api/golang/public/v1/web/swagger/favicon-32x32.png
+time="13-08-2024 11:25:46" level=info msg="HTTP Request Method" ID=c3eb9164-04b8-45e7-ac4a-a8288691e269 method=GET request= url=/api/golang/public/v1/web/swagger/index.html
+time="13-08-2024 11:25:46" level=info msg="HTTP Request Method" ID=cd4b30b4-5dd7-4763-8b0e-387a49883940 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-bundle.js
+time="13-08-2024 11:25:46" level=info msg="HTTP Request Method" ID=3c0f75fd-f2a7-41e5-9088-debd84a310a0 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui.css
+time="13-08-2024 11:25:46" level=info msg="HTTP Request Method" ID=8ebb7e72-8bdd-4521-92d9-7e11c8f12753 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-standalone-preset.js
+time="13-08-2024 11:25:46" level=info msg="HTTP Request Method" ID=50c29146-61a8-4c1e-aad5-4dc685fc4a9d method=GET request= url=/api/golang/public/v1/web/swagger/localhost/api/golang/public/v1/web/swagger/doc.json
+time="13-08-2024 11:25:46" level=info msg="HTTP Request Method" ID=02f49023-7664-4561-aced-a618e37f5b4d method=GET request= url=/api/golang/public/v1/web/swagger/favicon-32x32.png
+time="13-08-2024 11:25:50" level=info msg="HTTP Request Method" ID=3db00c31-4c96-4570-bf4c-10a1c9515612 method=GET request= url=/api/golang/public/healthy
+time="13-08-2024 11:26:11" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:26:11" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:26:38" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:26:38" level=info msg="HTTP Request Method" detail="ExpiredTime: 2024-08-14 11:26:38"
+time="13-08-2024 11:26:48" level=info msg="HTTP Request Method" ID=83113da4-efd1-40b1-b6fc-e697cd31d4dc method=GET request= url=/api/golang/public/v1/web/swagger/index.html
+time="13-08-2024 11:26:48" level=info msg="HTTP Request Method" ID=28f82c47-fee3-4202-a529-6fb5dcf945ff method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui.css
+time="13-08-2024 11:26:48" level=info msg="HTTP Request Method" ID=16a061ab-1481-4016-8b16-77286ff2b531 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-bundle.js
+time="13-08-2024 11:26:48" level=info msg="HTTP Request Method" ID=9ff818cd-4f43-4c97-9735-f4828a33a764 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-standalone-preset.js
+time="13-08-2024 11:26:48" level=info msg="HTTP Request Method" ID=ca7feb63-ccc1-4082-8b22-5f5fe5342d7c method=GET request= url=/api/golang/public/v1/web/swagger/localhost/api/golang/public/v1/web/swagger/doc.json
+time="13-08-2024 11:26:48" level=info msg="HTTP Request Method" ID=45ad13fd-940d-4b98-acf8-0da5d5a6b580 method=GET request= url=/api/golang/public/v1/web/swagger/favicon-32x32.png
+time="13-08-2024 11:26:55" level=info msg="HTTP Request Method" ID=373a746a-2fb9-4c76-8343-0355422136fe method=GET request= url=/api/golang/public/healthy
+time="13-08-2024 11:31:29" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:31:29" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:34:53" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:34:53" level=info msg="HTTP Request Method" detail="ExpiredTime: 2024-08-14 11:34:53"
+time="13-08-2024 11:35:05" level=info msg="HTTP Request Method" ID=4758bbf3-0125-445c-bdb1-1913d45637ff method=GET request= url=/api/golang/public/v1/web/swagger/index.html
+time="13-08-2024 11:35:05" level=info msg="HTTP Request Method" ID=0d4aa64f-24c3-433a-a98d-3948023236d5 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui.css
+time="13-08-2024 11:35:05" level=info msg="HTTP Request Method" ID=75a9b36c-3ccd-4a80-b5a7-7c037dd30de3 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-bundle.js
+time="13-08-2024 11:35:05" level=info msg="HTTP Request Method" ID=a6ea6aea-9498-4873-b21b-d7e6f9fd4b44 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-standalone-preset.js
+time="13-08-2024 11:35:06" level=info msg="HTTP Request Method" ID=d506563e-7df8-4aae-9f78-9fc2d7c78660 method=GET request= url=/api/golang/public/v1/web/swagger/localhost/api/golang/public/v1/web/swagger/doc.json
+time="13-08-2024 11:35:06" level=info msg="HTTP Request Method" ID=0c504d64-dfbb-4e8e-8a08-be3fe0f8ab75 method=GET request= url=/api/golang/public/v1/web/swagger/favicon-32x32.png
+time="13-08-2024 11:35:12" level=info msg="HTTP Request Method" ID=15585f1c-6fbc-4207-b6bc-f89080fd0e4d method=GET request= url=/api/golang/public/config/healthcheck
+time="13-08-2024 11:35:27" level=info msg="HTTP Request Method" ID=cdf87297-f511-40c0-aaf0-5b787999b807 method=GET request= url=/api/golang/public/api/golang/public/health/db
+time="13-08-2024 11:36:55" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:36:55" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:37:05" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:37:05" level=info msg="HTTP Request Method" detail="ExpiredTime: 2024-08-14 11:37:05"
+time="13-08-2024 11:37:15" level=info msg="HTTP Request Method" ID=bc74e52c-fd6a-4609-b116-ee280a8e6d04 method=GET request= url=/api/golang/public/v1/web/swagger/index.html
+time="13-08-2024 11:37:15" level=info msg="HTTP Request Method" ID=e0247058-d75c-40dc-86c3-ca6ec1d4a998 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui.css
+time="13-08-2024 11:37:15" level=info msg="HTTP Request Method" ID=3f20ba6b-f973-4aac-a719-432f3c643d7c method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-standalone-preset.js
+time="13-08-2024 11:37:15" level=info msg="HTTP Request Method" ID=ddc25223-58b3-4137-9236-fd64f11deb03 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-bundle.js
+time="13-08-2024 11:37:16" level=info msg="HTTP Request Method" ID=dcce8344-248d-4344-a040-ebd83e929bc0 method=GET request= url=/api/golang/public/v1/web/swagger/localhost/api/golang/public/v1/web/swagger/doc.json
+time="13-08-2024 11:37:16" level=info msg="HTTP Request Method" ID=173114b6-a809-43b4-8581-e6d0572c58a5 method=GET request= url=/api/golang/public/v1/web/swagger/favicon-32x32.png
+time="13-08-2024 11:37:26" level=info msg="HTTP Request Method" ID=03569209-7a39-4b71-97f0-57558ed56680 method=GET request= url=/api/golang/public/api/golang/public/health/db
+time="13-08-2024 11:37:32" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:37:32" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:38:02" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:38:02" level=info msg="HTTP Request Method" detail="ExpiredTime: 2024-08-14 11:38:02"
+time="13-08-2024 11:38:19" level=info msg="HTTP Request Method" ID=bd31fb94-dd1f-43b9-ade8-c96417ad9b0f method=GET request= url=/api/golang/public/v1/web/swagger/index.html
+time="13-08-2024 11:38:19" level=info msg="HTTP Request Method" ID=f4905076-f898-4222-b5a9-dd0ced498476 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-bundle.js
+time="13-08-2024 11:38:19" level=info msg="HTTP Request Method" ID=ae3b5215-c4db-4ff2-b1bf-e7daa1774eec method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui.css
+time="13-08-2024 11:38:19" level=info msg="HTTP Request Method" ID=1dd4c4cf-1c2f-4b7b-9a6a-451a7c0b37c1 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-standalone-preset.js
+time="13-08-2024 11:38:19" level=info msg="HTTP Request Method" ID=52632ee5-bffb-4861-b9ff-1d9a2403dee0 method=GET request= url=/api/golang/public/v1/web/swagger/localhost/api/golang/public/v1/web/swagger/doc.json
+time="13-08-2024 11:38:20" level=info msg="HTTP Request Method" ID=c9990687-060a-4f6a-bcda-5f72c5d74764 method=GET request= url=/api/golang/public/v1/web/swagger/favicon-32x32.png
+time="13-08-2024 11:38:25" level=info msg="HTTP Request Method" ID=d134fb06-ae01-48a8-9ec8-9f5bae4bcbea method=GET request= url=/api/golang/public/config/healthcheck
+time="13-08-2024 11:38:35" level=info msg="HTTP Request Method" ID=1184008b-7744-4cee-b258-c74e75d56fa8 method=GET request= url=/api/golang/public/health/db
+time="13-08-2024 11:39:51" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:39:51" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:47:12" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:47:12" level=info msg="HTTP Request Method" detail="ExpiredTime: 2024-08-14 11:47:12"
+time="13-08-2024 11:47:28" level=info msg="HTTP Request Method" ID=c7f762d9-250c-4bea-ae6b-72c811735f4a method=GET request= url=/api/golang/public/v1/web/swagger/index.html
+time="13-08-2024 11:47:28" level=info msg="HTTP Request Method" ID=ab4cfcf0-57f6-4cf9-a5d4-639da041681f method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-bundle.js
+time="13-08-2024 11:47:28" level=info msg="HTTP Request Method" ID=41bede8a-8fad-45d6-a898-76d66ad5bd79 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui.css
+time="13-08-2024 11:47:28" level=info msg="HTTP Request Method" ID=0a1a00f2-67ec-4775-88ed-b6b538c02a05 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-standalone-preset.js
+time="13-08-2024 11:47:28" level=info msg="HTTP Request Method" ID=9a8cb952-90ac-4fd2-8f7d-b2824ff01b7b method=GET request= url=/api/golang/public/v1/web/swagger/localhost/api/golang/public/v1/web/swagger/doc.json
+time="13-08-2024 11:47:28" level=info msg="HTTP Request Method" ID=e7ce2bab-7152-4f8e-83fc-8b1a831fcaf2 method=GET request= url=/api/golang/public/v1/web/swagger/favicon-32x32.png
+time="13-08-2024 11:47:36" level=info msg="HTTP Request Method" ID=7920f032-cb78-4d12-968f-b1148d1d81a9 method=GET request= url=/api/golang/public/health/db
+time="13-08-2024 11:48:50" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:48:50" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:49:02" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:49:02" level=info msg="HTTP Request Method" detail="ExpiredTime: 2024-08-14 11:49:02"
+time="13-08-2024 11:49:14" level=info msg="HTTP Request Method" ID=e8e0a2c2-ff65-4ebb-a716-4d6832f891d6 method=GET request= url=/api/golang/public/v1/web/swagger/index.html
+time="13-08-2024 11:49:14" level=info msg="HTTP Request Method" ID=bd8f568a-4c09-4734-a7e1-c5c26b7ce97c method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-standalone-preset.js
+time="13-08-2024 11:49:14" level=info msg="HTTP Request Method" ID=c2762e48-6957-49a1-880f-1dbc567cf7b2 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui.css
+time="13-08-2024 11:49:14" level=info msg="HTTP Request Method" ID=77a33f90-5cc2-40c3-8430-a891dcf95c1c method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-bundle.js
+time="13-08-2024 11:49:14" level=info msg="HTTP Request Method" ID=03837e18-310c-4d0f-9100-d9effcee6d7a method=GET request= url=/api/golang/public/v1/web/swagger/localhost/api/golang/public/v1/web/swagger/doc.json
+time="13-08-2024 11:49:14" level=info msg="HTTP Request Method" ID=19303e06-29c3-480e-bd18-f4d9e14839a6 method=GET request= url=/api/golang/public/v1/web/swagger/favicon-32x32.png
+time="13-08-2024 11:49:19" level=info msg="HTTP Request Method" ID=2b76ac3c-4b03-499c-8752-1fbd3c0ffa8c method=GET request= url=/api/golang/public/health/db
+time="13-08-2024 11:49:23" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:49:23" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:50:05" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:50:05" level=info msg="HTTP Request Method" detail="ExpiredTime: 2024-08-14 11:50:05"
+time="13-08-2024 11:50:20" level=info msg="HTTP Request Method" ID=5c4bf7e4-a52a-4f78-8273-820a6e063bb6 method=GET request= url=/api/golang/public/v1/web/swagger/index.html
+time="13-08-2024 11:50:20" level=info msg="HTTP Request Method" ID=7298ae9d-4c55-4f61-b8f5-1d5d89920250 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui.css
+time="13-08-2024 11:50:20" level=info msg="HTTP Request Method" ID=02c02091-f0e8-4626-9357-3b2c9670aad3 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-standalone-preset.js
+time="13-08-2024 11:50:20" level=info msg="HTTP Request Method" ID=d733157a-377f-41a2-9c88-1dfa8d7b8317 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-bundle.js
+time="13-08-2024 11:50:20" level=info msg="HTTP Request Method" ID=47c7beed-4ea4-4481-93c1-81f2ac8846e4 method=GET request= url=/api/golang/public/v1/web/swagger/localhost/api/golang/public/v1/web/swagger/doc.json
+time="13-08-2024 11:50:20" level=info msg="HTTP Request Method" ID=69e1d4d4-1c7a-4a39-bb30-b716de80d3f9 method=GET request= url=/api/golang/public/v1/web/swagger/favicon-32x32.png
+time="13-08-2024 11:50:26" level=info msg="HTTP Request Method" ID=667f8cad-356e-461f-9539-c3353de15cfc method=GET request= url=/api/golang/public/healthcheck/database
+time="13-08-2024 11:52:59" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:52:59" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:53:28" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:53:28" level=info msg="HTTP Request Method" detail="ExpiredTime: 2024-08-14 11:53:28"
+time="13-08-2024 11:53:34" level=info msg="HTTP Request Method" ID=e2d7e2dd-3bb6-4118-9d24-80e049a03d8b method=GET request= url=/api/golang/public/v1/web/swagger/index.html
+time="13-08-2024 11:53:34" level=info msg="HTTP Request Method" ID=62336845-6ff7-4145-b33e-6cc592ec27c6 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui.css
+time="13-08-2024 11:53:34" level=info msg="HTTP Request Method" ID=a1169a65-28c0-4237-8c32-52a90a8436f0 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-bundle.js
+time="13-08-2024 11:53:34" level=info msg="HTTP Request Method" ID=f5c8a3c7-3559-4b9e-a6b5-04b905585859 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-standalone-preset.js
+time="13-08-2024 11:53:34" level=info msg="HTTP Request Method" ID=3f1a5b46-5530-4300-9e83-ac4e56fe6d2e method=GET request= url=/api/golang/public/v1/web/swagger/localhost/api/golang/public/v1/web/swagger/doc.json
+time="13-08-2024 11:53:34" level=info msg="HTTP Request Method" ID=f0a2c839-0401-4dc5-b99d-68767a5f45c4 method=GET request= url=/api/golang/public/v1/web/swagger/favicon-32x32.png
+time="13-08-2024 11:53:51" level=info msg="HTTP Request Method" ID=ebced2ba-0bf5-48db-a95d-5a90553359d6 method=GET request= url=/api/golang/public/healthcheck/database
+time="13-08-2024 11:55:15" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:55:15" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:55:43" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:55:43" level=info msg="HTTP Request Method" detail="ExpiredTime: 2024-08-14 11:55:43"
+time="13-08-2024 11:55:49" level=info msg="HTTP Request Method" ID=61e24aa5-c193-4885-8415-77b0989ec76a method=GET request= url=/api/golang/public/v1/web/swagger/index.html
+time="13-08-2024 11:55:49" level=info msg="HTTP Request Method" ID=794d7023-a5e8-49fa-80f7-eab43ba641a5 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui.css
+time="13-08-2024 11:55:49" level=info msg="HTTP Request Method" ID=719e69ef-c4c9-43af-94a8-09967e38e301 method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-bundle.js
+time="13-08-2024 11:55:49" level=info msg="HTTP Request Method" ID=37304189-5e95-4668-a768-d2d8b976311e method=GET request= url=/api/golang/public/v1/web/swagger/swagger-ui-standalone-preset.js
+time="13-08-2024 11:55:49" level=info msg="HTTP Request Method" ID=edbb8137-34dd-4661-aee9-d7e35d546cce method=GET request= url=/api/golang/public/v1/web/swagger/localhost/api/golang/public/v1/web/swagger/doc.json
+time="13-08-2024 11:55:49" level=info msg="HTTP Request Method" ID=94709620-38d0-4940-8a13-fe7b1d4ca6e4 method=GET request= url=/api/golang/public/v1/web/swagger/favicon-32x32.png
+time="13-08-2024 11:55:55" level=info msg="HTTP Request Method" ID=6dc3c553-bd2e-4179-a576-65726beda48a method=GET request= url=/api/golang/public/healthcheck/database
+time="13-08-2024 11:56:43" level=info msg="HTTP Request Method" detail="<nil>"
+time="13-08-2024 11:56:43" level=info msg="HTTP Request Method" detail="<nil>"

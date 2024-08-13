@@ -1,0 +1,122 @@
+basePath: /api/golang/public
+definitions:
+  healthcheck.CheckStatus:
+    properties:
+      name:
+        example: Service Apigolang
+        type: string
+      pass:
+        example: true
+        type: boolean
+      responsiveness:
+        example: Success hit api golang
+        type: string
+    type: object
+  healthcheck.DBJson:
+    properties:
+      dbName:
+        example: Golang
+        type: string
+      dbStatus:
+        example: Database Golang is not ready
+        type: string
+    type: object
+  models.InternalErrorResponse:
+    properties:
+      message:
+        example: Internal server error
+        type: string
+      response:
+        example: 500
+        type: integer
+      result:
+        example: ""
+        type: string
+    type: object
+  models.ServiceUnavailableResponse:
+    properties:
+      message:
+        example: Service Unavailable
+        type: string
+      response:
+        example: 503
+        type: integer
+      result:
+        example: ""
+        type: string
+    type: object
+  models.SuccessResponse:
+    properties:
+      message:
+        example: Operation successful
+        type: string
+      response:
+        example: 200
+        type: integer
+      result:
+        type: object
+    type: object
+host: localhost:8080
+info:
+  contact:
+    email: ahmadhilmy0918123@gmail.com
+    name: Ahmad Hilmy Muflih
+  description: This is a sample server for Apigolang application.
+  title: APIGOLANG
+  version: "1.0"
+paths:
+  /healthcheck/config:
+    get:
+      consumes:
+      - application/json
+      description: Retrieve the configuration for the health check endpoint, including
+        the path, method, and status codes.
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: Health check configuration
+          schema:
+            allOf:
+            - $ref: '#/definitions/models.SuccessResponse'
+            - properties:
+                result:
+                  $ref: '#/definitions/healthcheck.CheckStatus'
+              type: object
+        "500":
+          description: Internal Server Error
+          schema:
+            $ref: '#/definitions/models.InternalErrorResponse'
+      summary: Get Health Check Configuration
+      tags:
+      - Health Check
+  /healthcheck/database:
+    get:
+      consumes:
+      - application/json
+      description: Retrieve the health status of the database connections, returning
+        the status of each connection.
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: All DB Connection Found and Ready
+          schema:
+            allOf:
+            - $ref: '#/definitions/models.SuccessResponse'
+            - properties:
+                result:
+                  items:
+                    $ref: '#/definitions/healthcheck.DBJson'
+                  type: array
+              type: object
+        "503":
+          description: Some Services are Down
+          schema:
+            $ref: '#/definitions/models.ServiceUnavailableResponse'
+      summary: Check Database Health Status
+      tags:
+      - Health Check
+schemes:
+- http
+swagger: "2.0"

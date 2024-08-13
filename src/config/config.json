@@ -1,0 +1,17 @@
+{
+  "database": {
+    "server": "localhost",
+    "port": 5432,
+    "user": "golang",
+    "password": "3c2185a8e6eb8bb2aee7f06d131fa095885c3f1fd0e8fb2fec4986cb288de7814f08d07eb19387",
+    "scheme": "Golang"
+  },
+  "host": "localhost",
+  "port": "8080",
+  "environment": "development",
+  "path": {
+    "log": "src/logs/"
+  },
+  "x-api-key" : "2dc813f5cdf29e5a48b91a505dde33530219ee750645bf620057ead05e3f68c30178d849dbe509ea3f996c6e5ac38fe10f5b392adff45f8f4efa11c324a269",
+  "turning_check": "OUpTSlNOQ04xbFhkQkZVUTVWU0pjeGxLaEVTSWhJRE95QVRPQUJFUUFwbFl2MW1JNkl5YWpWR2FqSnll"
+}
